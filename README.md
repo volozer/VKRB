@@ -11,8 +11,8 @@
 
 ## Данные  
 Исходные данные для исследования были взяты из открытых источников:  
-- **Данные о профилактических мерах** (OxCGRT): [https://github.com/OxCGRT/covid-policy-tracker](https://github.com/OxCGRT/covid-policy-tracker)  
-- **Данные о заболевших, выздоровевших и других группах** (Our World in Data): [https://github.com/owid/covid-19-data/tree/master](https://github.com/owid/covid-19-data/tree/master)  
+- **Данные о профилактических мерах** (OxCGRT): https://github.com/OxCGRT/covid-policy-tracker](https://github.com/OxCGRT/covid-policy-tracker)  
+- **Данные о заболевших, выздоровевших и других группах** (Our World in Data): https://github.com/owid/covid-19-data/tree/master/public/data)  
 
 ## Файлы проекта  
 | Файл                  | Назначение                                                                 |
